@@ -1,0 +1,97 @@
+{
+  "source_corners_json": "C:\\Users\\saiga\\RAS-545\\Midterm-2\\Mid_term_2\\part_2_maze_solution\\camera_capture_corners.json",
+  "source_path_json": "C:\\Users\\saiga\\RAS-545\\Midterm-2\\Mid_term_2\\part_2_maze_solution\\solution_path_points.json",
+  "original_image": "C:\\Users\\saiga\\RAS-545\\Midterm-2\\Mid_term_2\\part_2_maze_solution\\camera_capture.png",
+  "warped_image": "C:\\Users\\saiga\\RAS-545\\Midterm-2\\Mid_term_2\\part_2_maze_solution\\maze_warp.png",
+  "unwarped_path_pixels": [
+    [
+      110,
+      261
+    ],
+    [
+      105,
+      248
+    ],
+    [
+      135,
+      249
+    ],
+    [
+      135,
+      279
+    ],
+    [
+      135,
+      309
+    ],
+    [
+      134,
+      339
+    ],
+    [
+      164,
+      339
+    ],
+    [
+      195,
+      339
+    ],
+    [
+      225,
+      339
+    ],
+    [
+      255,
+      340
+    ],
+    [
+      285,
+      340
+    ],
+    [
+      315,
+      340
+    ],
+    [
+      345,
+      340
+    ],
+    [
+      375,
+      341
+    ],
+    [
+      405,
+      341
+    ],
+    [
+      435,
+      341
+    ],
+    [
+      465,
+      341
+    ],
+    [
+      465,
+      311
+    ],
+    [
+      465,
+      281
+    ],
+    [
+      466,
+      251
+    ],
+    [
+      466,
+      161
+    ],
+    [
+      477,
+      172
+    ]
+  ],
+  "notes": "Polyline points are in ORIGINAL image pixel coordinates. Start and end included if present in input."
+}
